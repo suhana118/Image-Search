@@ -39,4 +39,3 @@ The script dynamically creates image elements and displays them on the page.
 Clicking Show More loads the next page of results.
 
 
-<img width="1878" height="896" alt="Screenshot 2025-11-25 153102" src="https://github.com/user-attachments/assets/7bc7e1d6-69ed-4ef0-be46-ea13facbefad" />
